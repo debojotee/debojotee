@@ -1,5 +1,5 @@
-# Hi there 👋
-![Banner Ryuga](https://github.com/debojotee/debojotee/blob/main/Banner.png)
+# Hi I'm Debo 👋
+![Banner Ryuga](https://github.com/debojotee/debojotee/blob/main/Banner2.png)
 
 ![Debo's github stats](https://github-readme-stats.vercel.app/api?username=debojotee&show_icons=true&theme=radical)
 
