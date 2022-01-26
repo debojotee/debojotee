@@ -15,7 +15,7 @@
 
 <br>
 
-![Debo's github stats](https://github-readme-stats.vercel.app/api?username=debojotee&show_icons=true&theme=radical&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![Debo's github stats](https://github-readme-stats.vercel.app/api?username=debojotee&show_icons=true&theme=radical&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debojotee&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)
 <!--
 **debojotee/debojotee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
