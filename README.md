@@ -1,4 +1,4 @@
-# Hi I'm Debo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi I'm Debojotee <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 <br>
@@ -12,6 +12,7 @@
  * Some of my ideas on Behance also [Behance](https://www.behance.net/debodutt/) 🖌️
  * Let's be friends on Facebook [facebook](https://www.facebook.com/riyuga.nakanishi/) :beers:		
  * You think you have an opportunity for me, click here [Linkedin](https://www.linkedin.com/in/debojotee-dutta-046146159/) :star2:
+ * Here's my Resume [Resume](https://debojotee.github.io/media/Resume_debo.pdf) 📝
 
 <br>
 
