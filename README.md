@@ -3,7 +3,7 @@
 
 <br>
 
-<p>I'm a 22 year old developer from Kolkata &#128513; and currently working at Wipro 🧑‍💻. I like creating something to make my life easier. I mostly use Python. Will be sharing some of the codes that made a easier approah to life. Will be focusing more on viualization in future so tar anything you like here</p>
+<p>I'm a developer from Kolkata &#128513; and currently working at Wipro 🧑‍💻. I like creating something to make my life easier. I mostly use Python. Will be sharing some of the codes that made a easier approah to life. Will be focusing more on viualization in future so tar anything you like here</p>
 
 
 ## Find me on web :earth_asia:
