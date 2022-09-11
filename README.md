@@ -1,5 +1,5 @@
 # Hi I'm Debo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![Banner Ryuga](https://github.com/debojotee/debojotee/blob/main/Banner3.png)
+
 
 <br>
 
