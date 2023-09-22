@@ -11,12 +11,11 @@
  * Can have a look on my pinterest [Pinterest](https://in.pinterest.com/debodutt18/) 📌
  * Some of my ideas on Behance also [Behance](https://www.behance.net/debodutt/) 🖌️
  * Let's be friends on Facebook [facebook](https://www.facebook.com/riyuga.nakanishi/) :beers:		
- * You think you have an opportunity for me, click here [Linkedin](https://www.linkedin.com/in/debojotee-dutta-046146159/) :star2:
+ * If you think you have an opportunity for me, click here [Linkedin](https://www.linkedin.com/in/debojotee-dutta-046146159/) :star2:
  * Here's my Resume [Resume](https://debojotee.github.io/media/Resume_debo.pdf) 📝
 
 <br>
 
-![Debo's github stats](https://github-readme-stats.vercel.app/api?username=debojotee&show_icons=true&theme=radical&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debojotee&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)
 <!--
 **debojotee/debojotee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
